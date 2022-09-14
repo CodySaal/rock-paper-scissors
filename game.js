@@ -51,6 +51,7 @@
             losses++;
         }
 
+        // \n adds a new line
         alert(
             "Stats:\nWins: " + wins + "\nLosses: " + losses + "\nTies: " + ties
         );
